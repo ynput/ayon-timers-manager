@@ -1,6 +1,6 @@
 name = "timers_manager"
 title = "Timers Manager"
-version = "0.2.0"
+version = "0.2.1-dev.1"
 
 client_dir = "ayon_timers_manager"
 
