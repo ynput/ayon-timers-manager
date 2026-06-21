@@ -1,1 +1,3 @@
---8<-- "README.md"
+# AYON TimersManager Addon API Reference
+
+--8<-- "README.md:2"
